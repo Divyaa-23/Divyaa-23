@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Divyaa-23
+- 👋 Hi, I’m @Divyaa
 - 👀 I’m interested in Programming and Designing websites
 - 🌱 I’m currently learning Full Statck Web Development
 
